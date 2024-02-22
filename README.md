@@ -80,6 +80,6 @@
 
 <br clear="both">
 
-<img src="shms0mms/shms0mms/blob/main/snake.svg" alt="Snake"  />
+<img src="/snake.svg" alt="Snake"  />
 
 ###
