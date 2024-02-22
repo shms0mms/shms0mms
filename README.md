@@ -80,6 +80,6 @@
 
 <br clear="both">
 
-<img src="/shms0mms/snake.svg" alt="visualstudio logo"  />
+<img src="/shms0mms/shms0mms/blob/main/shms0mms/snake.svg" alt="Snake"  />
 
 ###
